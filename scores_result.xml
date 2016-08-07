@@ -1,0 +1,63 @@
+<results>
+    <title>Results</title>
+    <result id="1">
+        <homeTeam>
+            <name>Tottenham Skaro</name>
+            <score>55</score>
+        </homeTeam>
+        <awayTeam>
+            <name>Dantooine Destroyers</name>
+            <score>3</score>
+        </awayTeam>
+    </result>
+<result id="2">
+        <homeTeam>
+            <name>Dagobah Dragons</name>
+            <score>33</score>
+        </homeTeam>
+        <awayTeam>
+            <name>Dagobah Dragons</name>
+            <score>4</score>
+        </awayTeam>
+    </result>
+<result id="3">
+        <homeTeam>
+            <name>Dagobah Dragons</name>
+            <score>23</score>
+        </homeTeam>
+        <awayTeam>
+            <name>Dantooine Destroyers</name>
+            <score>4</score>
+        </awayTeam>
+    </result>
+<result id="4">
+        <homeTeam>
+            <name>Rura Penthe Massive</name>
+            <score>88</score>
+        </homeTeam>
+        <awayTeam>
+            <name>Dantooine Destroyers</name>
+            <score>3</score>
+        </awayTeam>
+    </result>
+<result id="5">
+        <homeTeam>
+            <name>Wayland Warriors</name>
+            <score>4</score>
+        </homeTeam>
+        <awayTeam>
+            <name>Rura Penthe Massive</name>
+            <score>23</score>
+        </awayTeam>
+    </result>
+<result id="6">
+        <homeTeam>
+            <name>Dantooine Destroyers</name>
+            <score>56</score>
+        </homeTeam>
+        <awayTeam>
+            <name>Romulas Rejects</name>
+            <score>4</score>
+        </awayTeam>
+    </result>
+</results>
